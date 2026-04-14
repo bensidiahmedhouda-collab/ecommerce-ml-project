@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+env/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files (too large for git — download instructions in README)
+data/*.xlsx
+data/*.csv
+
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Old/draft notebooks
+Notebook.ipynb
+Online_shoppers.ipynb
+Untitled.ipynb
+businessCase1.ipynb
