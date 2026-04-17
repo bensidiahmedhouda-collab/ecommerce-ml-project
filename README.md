@@ -39,7 +39,7 @@ Used in notebook 5.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/ecommerce-ml-project.git
+git clone https://github.com/bensidiahmedhouda-collab/ecommerce-ml-project.git
 cd ecommerce-ml-project
 
 # Create and activate virtual environment
